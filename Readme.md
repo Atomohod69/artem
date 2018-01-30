@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Никита Тощев](https://up.htmlacademy.ru/javascript/12/user/550217).
-
+* Студент: [Ватаманюк Артем](https://vk.com/vatamanyuk_my_personal_page).
+* Наставник: [Смирнов Александр](https://vk.com/underalex).
 ---
 
 _Не удаляйте и не обращайте внимание на папки и файлы:_<br>
